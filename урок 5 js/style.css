@@ -1,0 +1,16 @@
+.white, .black {
+    width: 250px;
+    height: 50px;
+}
+
+.content {
+    display: flex;
+}
+
+.buttons {
+    padding-left: 10px;
+}
+
+.button_up:hover, .button_down:hover{
+    background-color: aqua;
+}
